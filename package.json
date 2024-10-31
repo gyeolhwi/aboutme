@@ -1,6 +1,7 @@
 {
   "name": "aboutme_front",
   "version": "0.1.0",
+  "homepage": "https://gyeolhwi.github.io/aboutme/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
