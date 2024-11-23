@@ -16,35 +16,36 @@ function AboutTxtWrap() {
 					<Heading>
 						I'M{" "}
 						<span className="message">
-							<strong>HYEJU BAN</strong>
+							<strong>GYEOLHWI KIM</strong>
 							<strong>WEB DEVELOPER</strong>
-							<strong>UX/UI PUBLISHER</strong>
+							{/* <strong>FullStack</strong> */}
 						</span>
 					</Heading>
 					{/* <p>I’m a Tunisian based web designer & front‑end developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.</p> */}
 					<p>
-						안녕하세요, 저는 반혜주입니다. 😀
+						안녕하세요, 저는 김결휘입니다. 😀
 						<br />
-						새로운 기술에 관심이 많으며 동료들과의 커뮤니케이션과 상호 피드백 및 리뷰를 좋아합니다. 현재 프론트엔드 개발자로 구직중입니다. 맡은 일에 자부심을 갖고 도전을 경험할 수 있는 회사에서 일하고 싶습니다.
+						{/* 새로운 기술에 관심이 많으며 동료들과의 커뮤니케이션과 상호 피드백 및 리뷰를 좋아합니다. 현재 프론트엔드 개발자로 구직중입니다. 맡은 일에 자부심을 갖고 도전을 경험할 수 있는 회사에서 일하고 싶습니다. */}
+						설명글이 들어갈겁니다
 					</p>
 				</div>
 				<section>
 					<Heading level="2">PERSONAL INFOS</Heading>
 					<ul>
 						<li>
-							<span>Name : </span>반혜주
+							<span>Name : </span>김결휘
 						</li>
 						<li>
-							<span>Age : </span>26, 1996.02
+							<span>Age : </span>26, 1999.06
 						</li>
 						<li>
-							<span>Phone : </span>010.5103.2212
+							<span>Phone : </span>010.6818.5091
 						</li>
 						<li>
-							<span>Address : </span>서울시 은평구
+							<span>Address : </span>부산시 사하구
 						</li>
 						<li>
-							<span>Email : </span>baneju212@naver.com
+							<span>Email : </span>gyeori0626@gmail.com
 						</li>
 						{/* <li>
 							<span>Name : </span>Steve
